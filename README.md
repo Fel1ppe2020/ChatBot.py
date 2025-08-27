@@ -1,7 +1,7 @@
 # ChatBot.py
 ChatBot simples, mas funcional. 
 
-🚀ChatBot em Python com pouquíssimas linhas de código!
+🚀ChatBot em Python com pouquíssimas linhas de código! (18 linhas)
 A lógica é simples, mas poderosa:
 ✅ Configuração da API Key
 ✅ Inicialização do modelo de IA
