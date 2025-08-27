@@ -1,4 +1,4 @@
-api_key = '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'
+api_key = 'sua api key'
 import os
 os.environ['GROQ_API_KEY'] = api_key
 from langchain_groq import ChatGroq
@@ -26,5 +26,6 @@ print("Obrigado por usar o chatbot!")
 
 
     
+
 
 
